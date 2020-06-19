@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 2: Friday, June 19, 2020
+
+**Today's Progress**: I worked on Top Movies.
+
+**Thoughts:** I added a StatefulWidget called MovieSelector as a scrolling ListView to select a movie and refactored the movie page.
+
+**Link to work:** [Top Movies](https://github.com/Rami-Majdoub/Top_Movies)
+
 ### Day 1: Thursday, June 18, 2020
 
 **Today's Progress**: created Top Movies app with flutter.
