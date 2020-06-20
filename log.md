@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 3: Saturday, June 20, 2020
+
+**Today's Progress**: I worked on Top Movies.
+
+**Thoughts:** I added more movies and changed the movie page layout.
+
+**Link to work:** [Top Movies](https://github.com/Rami-Majdoub/Top_Movies)
+
 ### Day 2: Friday, June 19, 2020
 
 **Today's Progress**: I worked on Top Movies.
