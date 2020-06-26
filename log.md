@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: Sunday, June 21, 2020
+
+**Today's Progress**: I started working on a digits recognition project.
+
+**Thoughts:** I loaded the data and trained the model.
+
+**Link to work:** [Digits Prediction](https://github.com/Rami-Majdoub/digits-prediction)
+
 ### Day 3: Saturday, June 20, 2020
 
 **Today's Progress**: I worked on Top Movies.
