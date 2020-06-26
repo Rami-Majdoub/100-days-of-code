@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: Tuesday, June 23, 2020
+
+**Today's Progress**: I resumed working on the digits classifier.
+
+**Thoughts:** I added a method to transform the canvas to features (the inputs for the classifier).
+
+**Link to work:** [Digits Prediction](https://github.com/Rami-Majdoub/digits-prediction)
+
 ### Day 4: Sunday, June 21, 2020
 
 **Today's Progress**: I started working on a digits recognition project.
