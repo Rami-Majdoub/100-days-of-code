@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: Friday, June 26, 2020
+
+**Today's Progress**: I resumed working on the digits classifier.
+
+**Thoughts:** I added a page to preview the data that the classifier trained on.
+
+**Link to work:** [Digits Prediction](https://github.com/Rami-Majdoub/digits-prediction)
+
 ### Day 5: Tuesday, June 23, 2020
 
 **Today's Progress**: I resumed working on the digits classifier.
